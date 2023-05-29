@@ -14,10 +14,12 @@ TechOverflow is an interactive online forum where users can share their queries 
 
 ### Some glimpses of TechOverflow
 
-#### Home Page
+## Home Page
+
 ![Screenshot (80)](https://github.com/VVSD-Charan/TechOverflow/assets/105978561/61c09ea8-ed6a-4609-b252-d8fd7c80cdc4)
 
-#### View categories
+## View categories<br>
+
 Before Login
 ![Screenshot (81)](https://github.com/VVSD-Charan/TechOverflow/assets/105978561/b807e536-7403-41ea-8f0f-8e9918f954fb)
 
