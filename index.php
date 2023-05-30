@@ -42,13 +42,13 @@ require "./partials/_header.php";
     </div>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="https://source.unsplash.com/1600x1000/?coding,code" class="d-block w-100" alt="...">
+            <img src="https://source.unsplash.com/1600x600/?coding,code" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="https://source.unsplash.com/1600x1000/?programmers,code" class="d-block w-100" alt="...">
+            <img src="https://source.unsplash.com/1600x600/?programmers,code" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="https://source.unsplash.com/1600x1000/?computer,hacking" class="d-block w-100" alt="...">
+            <img src="https://source.unsplash.com/1600x600/?computer,hacking" class="d-block w-100" alt="...">
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"

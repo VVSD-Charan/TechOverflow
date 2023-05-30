@@ -62,7 +62,7 @@
     if(isset($_SESSION['loggedin']) && $_SESSION['loggedin']==true)
     {
         echo '<div class="container" style="margin-bottom: 50px;">
-        <h1 class="py-2">Start a discussion</h1>
+        <h1 class="py-2">Add category</h1>
         <form action="'. $_SERVER["REQUEST_URI"] .'" method="post">
             <div class="mb-3">
                 <label for="category_name" class="form-label">Category Name</label>
